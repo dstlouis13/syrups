@@ -1,0 +1,10 @@
+voila
+notebook
+ipywidgets
+ipyvuetify
+pandas
+numpy
+openpyxl
+jupyterlab
+ipyvue
+ipython
