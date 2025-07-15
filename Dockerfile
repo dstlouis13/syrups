@@ -19,4 +19,4 @@ WORKDIR /app
 EXPOSE 10000
 
 # Run the voila app
-CMD ["voila", "my_app.ipynb", "--port=10000", "--no-browser", "--Voila.configuration.allow_origin=*"]
+CMD ["voila", "daily_downtime.ipynb", "--port=10000", "--no-browser", "--Voila.configuration.allow_origin=*"]
